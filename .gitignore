@@ -1,0 +1,8 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/RabbitMQ/RMQ.Consumer/bin/Debug/net5.0
+/RabbitMQ/RMQ.Consumer/obj
+/RabbitMQ/RMQ.Producer/bin/Debug/net5.0
+/RabbitMQ/RMQ.Producer/obj
